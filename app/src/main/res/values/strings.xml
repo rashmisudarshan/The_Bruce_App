@@ -5,4 +5,21 @@
     <string name="title_notifications">Notifications</string>
     <string name="button">Button</string>
     <string name="quotes">quotes</string>
+    <string name="abcd">ABCD</string>
+    <string name="grid_of_albums">grid of albums</string>
+    <string name="Gallery1">Beautiful</string>
+    <string name="Gallery2">Magnificent</string>
+    <string name="Gallery3">Charming</string>
+    <string name="Gallery4">Rugged</string>
+    <string name="Gallery5">Intense</string>
+    <string name="Gallery6">Manly</string>
+    <string name="Gallery7">Handsome</string>
+    <string name="Gallery8">Amazing</string>
+    <string name="Gallery9">Adorable</string>
+    <string name="Gallery10">Incredible</string>
+    <string name="Gallery11">Mesmerizing</string>
+    <string name="Gallery12">Captivating</string>
+    <string name="Gallery13">Cute</string>
+    <string name="Gallery14">Lovely</string>
+
 </resources>
