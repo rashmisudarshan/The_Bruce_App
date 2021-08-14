@@ -13,6 +13,6 @@
         android:id="@+id/recycler_view"
         app:layoutManager="LinearLayoutManager"
         android:scrollbars="vertical"
-
+        android:clipToPadding="false"
         />
 </FrameLayout>

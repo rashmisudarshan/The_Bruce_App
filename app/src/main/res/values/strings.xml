@@ -21,5 +21,28 @@
     <string name="Gallery12">Captivating</string>
     <string name="Gallery13">Cute</string>
     <string name="Gallery14">Lovely</string>
+    <string name="Cover1">Greetings from Asbury Park, N.J.</string>
+    <string name="Cover2">The Wild, the Innocent &amp; the E Street Shuffle</string>
+    <string name="Cover3">Born to Run</string>
+    <string name="Cover4">Darkness on the Edge of Town</string>
+    <string name="Cover5">The River</string>
+    <string name="Cover6">Nebraska</string>
+    <string name="Cover7">Born in the U.S.A.</string>
+    <string name="Cover8">Tunnel of Love</string>
+    <string name="Cover9">Human Touch</string>
+    <string name="Cover10">Lucky Town</string>
+    <string name="Cover11">The Ghost of Tom Joad</string>
+    <string name="Cover12">The Rising</string>
+    <string name="Cover13">Devils &amp; Dust</string>
+    <string name="Cover14">We Shall Overcome:
+The Seeger Sessions</string>
+    <string name="Cover15">Magic</string>
+    <string name="Cover16">Working on a Dream</string>
+    <string name="Cover17">Wrecking Ball</string>
+    <string name="Cover18">High Hopes</string>
+    <string name="Cover19">Western Stars</string>
+    <string name="Cover20">Letter to You</string>
+    <string name="title">Title</string>
+    <string name="covertitle">coverTitle</string>
 
 </resources>
